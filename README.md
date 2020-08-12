@@ -19,17 +19,14 @@
   <li><a href="https://github.com/Rishikeshrajrxl/Titanic-Machine-Learning-from-Disaster">Titanic-Machine-Learning-from-Disaster</a></li>
   <li><a href="https://github.com/Rishikeshrajrxl/Predicting-Boston-House-Prices">Predicting-Boston-House-Prices</a></li>
   <li><a href="https://zindi.africa/users/Rishikeshrajrxl/competitions">Flight Delay Prediction Challenge</li>
-  <li>Many more on and out of Github...</li>
 </ul>
 </details>
 <details>
-<summary>Full Stack Developer 🍥</summary>
+<summary>Web Developer 🍥</summary>
   <ul>
-    <li><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio</a></li>
-    <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
-    <li><a href="https://github.com/ashutosh1919/neurostack">neurostack</a></li>
-    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
-    <li>Many more on and out of Github...</li>
+    <li><a href="https://github.com/Rishikeshrajrxl/Online-Voting-System">Online-Voting-System</a></li>
+    <li><a href="https://github.com/Rishikeshrajrxl/fast-food-service">Fast-Food-Service </a></li>
+    <li><a href="https://github.com/Rishikeshrajrxl/Pure-CSS-base-Youtube-UI">Pure-CSS-base-Youtube-UI </a></li>
   </ul>
 </details>
 <details>
