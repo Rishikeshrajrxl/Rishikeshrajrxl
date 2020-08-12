@@ -12,15 +12,13 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Data Scientist 📊</summary>
+<summary>Machine Laearning | Data Science 📊</summary>
 <ul>
-  <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
-  <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
-  <li><a href="https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
-  <li><a href="https://github.com/ashutosh1919/bert_classifier">bert-classifier</a></li>
-  <li><a href="https://github.com/ashutosh1919/docker-ml-tutorial">docker-ml-tutorial</li>
-  <li><a href="https://github.com/ashutosh1919/FaceInterpolation">face-interpolation</a></li>
-  <li><a href="https://github.com/ashutosh1919/NQA_tf2">natural-question-answer-ai</a></li>
+  <li><a href="https://github.com/Rishikeshrajrxl/Predict-Loan-Eligibility-for-Dream-Housing-Finance-company">Predicting Loan Eligibility for Dream Housing Finance company</a></li>
+  <li><a href="https://github.com/Rishikeshrajrxl/Heart-Disease-Predictor">Heart Disease Predictor</a></li>
+  <li><a href="https://github.com/Rishikeshrajrxl/Titanic-Machine-Learning-from-Disaster">Titanic-Machine-Learning-from-Disaster</a></li>
+  <li><a href="https://github.com/Rishikeshrajrxl/Predicting-Boston-House-Prices">Predicting-Boston-House-Prices</a></li>
+  <li><a href="https://zindi.africa/users/Rishikeshrajrxl/competitions">Flight Delay Prediction Challenge</li>
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
