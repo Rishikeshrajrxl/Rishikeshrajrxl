@@ -30,26 +30,25 @@
   </ul>
 </details>
 <details>
-  <summary>Associate Artificial Intelligence Engineer at <a href="https://www.legatohealth.com/">Legato</a> 🤖</summary>
+  <summary>Application Development 🤖</summary>
   <ul>
-    <li>Working on core AI products to simplify healthcare system at scale.</li>
-    <li>Applying AI on different large problems in the field of Oncology, Process Improvement and Rapid Engineeing.</li>
+     <li><a href="https://github.com/Rishikeshrajrxl/Library-Management-System">Library-Management-System</a></li>
+     <li><a href="https://github.com/Rishikeshrajrxl/-Text-To-Speech-GUI-Notepad">Text-To-Speech-GUI-Notepad</a></li>
   </ul>
 </details>
 <details>
 <summary>Community Influencer 👁️‍🗨️</summary>
 <ul>
-  <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
   <li>Join Me on LinkedIn to see my daily posts.</li>
 </ul>
 </details>
-<details>
+<!--<details>
 <summary>Opensource Contributor 📝</summary>
   <ul>
     <li>You can get detailed information of my contributions <a href="https://ashutoshhathidara.com/#/opensource">here</a>.</li>
     <li>You can also scroll down and get the information on my <a href="https://github.com/ashutosh1919">github profile</a>.</li>
   </ul>
-</details>
+</details>-->
 
 <h3>The Questions You May Have 😕</h3>
 <details>
