@@ -42,6 +42,7 @@
 <summary>Community Influencer 👁️‍🗨️</summary>
 <ul>
   <li>Join Me on LinkedIn to see my daily posts.</li>
+   <li>Follow me on Kaggle for more discussion.</li>
 </ul>
 </details>
 <!--<details>
@@ -57,42 +58,30 @@
   <summary>Who are you? 👨</summary>
   <pre>
   A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
-  technical systems to create impact.<br>
-  My name describes my qualities,
-  A: Active Learner
-  S: Sociable
-  H: Hard working
-  U: Ultra-precise
-  T: Trustworthy
-  O: Open minded to create new things
-  S: Supportive
-  H: Humble
+  technical systems to create impact. Currently pursuing (CSE) at Arya Institute of Engineering & Technology. Working   with 
+  computer programmers and professionals to solve problems and create products. I’m eager to learn and expand my knowledge and
+  always curious to learn things by doing. I am a self-driven person with established goals and plans to achieve them. I have always been 
+  success-oriented, and will always work towards achieving more.<br>
+  My area of Interests are :
+ •Machine Learning || Data Science
+ •Application development
+ •Web development
+ •Database Mabagement. 
   </pre>
 </details>
 <details>
   <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
   <ul>
-    <li>In Sept. 2019, I was invited to Google Machine Learning Summit at Google Hyderabad for my exceptional interest in AI.</li>
-    <li>Also, I was selected as one of 120 Google Explore ML Facilitators from India to spread awareness about AI in students.
-In May 2019, I was selected as Microsoft Student Partner to teach students about Cloud Infrastructure and to demonstrate deployments of applications and ML models on Azure.</li>
-    <li>In July 2019, I became Mozilla Campus Captain. With this, I started an open source community in the college to build open source projects. Under this program, I have also organised a hackathon in campus.</li>
-    <li>In Sept. 2018, I designed application architecture for a startup named Muffito. I was also managing the complete application development process.</li>
-  </ul>
-</details>
-<details>
-<summary>What do you do other than building AI systems? 💁‍♂️</summary>
-  <ul>
-    <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="https://ashutoshhathidara.wordpress.com">ashutoshhathidara.wordpress.com</a>.</li>
-    <li>I am a public speaker and a member of AMP (Association of Muslim Profession). We work for educating students to deal with very basic but important problems which eventually build their character.</li>
-    <li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
+    <li>In 2015, I was certified by the Human Resource and Development Minister of India for my achievement in 10th class.</li>
+    <li>I am a programming discussion moderator, my responsibility is to organise discussion on Java for freshers. Also Helping freshers in various technology and             building projects.</li>
   </ul>
 </details>
 
 <h3>What if you like my work? 🤩</h3>
 <ul>
-  <li>You can donate 💰 me 1 USD on my <a href="https://www.patreon.com/ashutosh1919">patreon profile</a>.</li>
+ <!-- <li>You can donate 💰 me 1 USD on my <a href="">patreon profile</a>.</li>-->
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)
+[![Rishikesh's Github Stats](https://github-readme-stats.vercel.app/api?username=rishikeshrajrxl&show_icons=true&count_private=true)](https://github.com/rishikeshrajrxl/github-readme-stats)
