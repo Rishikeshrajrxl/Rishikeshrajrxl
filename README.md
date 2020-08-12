@@ -19,6 +19,7 @@
   <li><a href="https://github.com/Rishikeshrajrxl/Titanic-Machine-Learning-from-Disaster">Titanic-Machine-Learning-from-Disaster</a></li>
   <li><a href="https://github.com/Rishikeshrajrxl/Predicting-Boston-House-Prices">Predicting-Boston-House-Prices</a></li>
   <li><a href="https://zindi.africa/users/Rishikeshrajrxl/competitions">Flight Delay Prediction Challenge</li>
+  <li>Many more on and out of Github...</li> 
 </ul>
 </details>
 <details>
@@ -27,6 +28,7 @@
     <li><a href="https://github.com/Rishikeshrajrxl/Online-Voting-System">Online-Voting-System</a></li>
     <li><a href="https://github.com/Rishikeshrajrxl/fast-food-service">Fast-Food-Service </a></li>
     <li><a href="https://github.com/Rishikeshrajrxl/Pure-CSS-base-Youtube-UI">Pure-CSS-base-Youtube-UI </a></li>
+    <li>Many more on and out of Github...</li>
   </ul>
 </details>
 <details>
