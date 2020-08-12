@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/linkedin_banner.png" />
 
@@ -7,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/rishikesh-raj-65065b180/"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/Rishikeshrajrxl"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/rishikesh.raj.5095/"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/rishikesh.raj.5095/"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/facebook.png" width="40" /></a>
 <a href="mailto:rishikeshrajrxl@gmail.com"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://www.instagram.com/thisisrishikeshraj"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/instagram.png" width="40" /></a>
 
