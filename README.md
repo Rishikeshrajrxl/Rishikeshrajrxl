@@ -71,9 +71,8 @@
 </details>
 <details>
   <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
-  <ul>
-    
-    <li>I am a programming discussion moderator at Coding Society (AIET), my responsibility is to organise discussion on Java for freshers. Also Helping freshers in various technology and building projects.</li>
+  <ul>  
+    <li>I am a programming discussion moderator at Coding Society (AIET), my responsibility is to organise discussion on Java for freshers. Also Helping freshers in  n      various technology and building projects.</li>
     <li>In 2015, I was certified by the Human Resource and Development Minister of India for my achievement in 10th class.</li>
   </ul>
 </details>
