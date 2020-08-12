@@ -32,7 +32,7 @@
   </ul>
 </details>
 <details>
-  <summary>Application Development 🤖</summary>
+  <summary>Application Developer 🤖</summary>
   <ul>
      <li><a href="https://github.com/Rishikeshrajrxl/Library-Management-System">Library-Management-System</a></li>
      <li><a href="https://github.com/Rishikeshrajrxl/-Text-To-Speech-GUI-Notepad">Text-To-Speech-GUI-Notepad</a></li>
