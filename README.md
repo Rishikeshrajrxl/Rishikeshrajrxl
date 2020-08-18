@@ -9,6 +9,18 @@
 <a href="mailto:rishikeshrajrxl@gmail.com"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/google-plus.png" width="20" /></a>
 <a href="https://www.instagram.com/thisisrishikeshraj"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/instagram.png" width="20" /></a>
 
+## ⚡ Technologies
+![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+
+
 <h3>What I do? 👨‍💻</h3>
 <details>
 <summary>Machine Laearning | Data Science 📊</summary>
@@ -44,13 +56,13 @@
    <li>Follow me on Kaggle for more discussion.</li>
 </ul>
 </details>
-<!--<details>
+<details>
 <summary>Opensource Contributor 📝</summary>
   <ul>
-    <li>You can get detailed information of my contributions <a href="https://ashutoshhathidara.com/#/opensource">here</a>.</li>
-    <li>You can also scroll down and get the information on my <a href="https://github.com/ashutosh1919">github profile</a>.</li>
+    <li>You can get detailed information of my contributions <a href="https://rishikeshraj/#/opensource">here</a>.</li>
+    <li>You can also scroll down and get the information on my <a href="https://github.com/rishikeshrajrxl">github profile</a>.</li>
   </ul>
-</details>-->
+</details>
 
 <h3>The Questions You May Have 😕</h3>
 <details>
@@ -83,16 +95,7 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-## ⚡ Technologies
-![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+
 
 ![Rishikesh's github stats](https://github-readme-stats.vercel.app/api?username=rishikeshrajrxl&show_icons=true&theme=radical)
 <br/>
