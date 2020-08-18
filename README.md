@@ -2,7 +2,6 @@
 <img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/linkedin_banner.png" />
 
 <h1>Hi Traveller, I am <a href="https://rishikeshraj.com/">Rishikesh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/profile.jpg" width="230" />
 
 <a href="https://www.linkedin.com/in/rishikesh-raj-65065b180/"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/Rishikeshrajrxl"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
@@ -95,7 +94,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
-
-[![Rishikesh's Github Stats](https://github-readme-stats.vercel.app/api?username=rishikeshrajrxl&show_icons=true&count_private=true)](https://github.com/rishikeshrajrxl/github-readme-stats)
-
+![Rishikesh's github stats](https://github-readme-stats.vercel.app/api?username=rishikeshrajrxl&show_icons=true&theme=radical)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikeshrajrxl&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
