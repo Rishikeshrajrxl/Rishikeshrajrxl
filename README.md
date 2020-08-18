@@ -9,7 +9,7 @@
 <a href="mailto:rishikeshrajrxl@gmail.com"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/google-plus.png" width="20" /></a>
 <a href="https://www.instagram.com/thisisrishikeshraj"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/instagram.png" width="20" /></a>
 
-## ⚡ Language & zTools
+## ⚡ Language & Tools
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
