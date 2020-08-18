@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/linkedin_banner.png" />
+<!--<img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/linkedin_banner.png" />-->
 
 <h1>Hi Traveller, I am <a href="https://rishikeshraj.com/">Rishikesh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
