@@ -23,6 +23,16 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
+<summary>Problem Solving 📝</summary>
+  <ul>
+    <li><a href="https://auth.geeksforgeeks.org/user/rishikesh_raj/practice/">GeeksForGeeks</a></li>
+    <li><a href="https://www.hackerrank.com/rishikeshraj">Hackerrank</a></li>
+    <li><a href="https://leetcode.com/progress/">LeetCode</a></li>
+    <li><a href="https://www.codechef.com/users/rishi123raj">CodeChef</a></li>
+    <li>Many more on and out of Github...</li>
+  </ul>
+</details>
+<details>
 <summary>Machine Laearning | Data Science 📊</summary>
 <ul>
   <li><a href="https://github.com/Rishikeshrajrxl/Predict-Loan-Eligibility-for-Dream-Housing-Finance-company">Predicting Loan Eligibility for Dream Housing Finance company</a></li>
