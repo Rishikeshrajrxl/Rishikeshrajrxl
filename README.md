@@ -16,10 +16,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
 
 <h3>What I do? 👨‍💻</h3>
 <details>
@@ -100,4 +100,16 @@
 ![Rishikesh's github stats](https://github-readme-stats.vercel.app/api?username=rishikeshrajrxl&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikeshrajrxl&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+### Contact
+
+<a href="https://www.linkedin.com/in/rishikesh-raj-65065b180/">
+  <img align="left" alt="Kajol Kuamri|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/8986253054">
+  <img align="left" alt="Kajol Kumari| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:rishikeshrajrxl@gmail.com">
+  <img align="left" alt="Kajol Kumari| Gmaiil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
