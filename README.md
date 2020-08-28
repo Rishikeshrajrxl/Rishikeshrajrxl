@@ -69,7 +69,7 @@
 <details>
 <summary>Opensource Contributor 📝</summary>
   <ul>
-    <li>You can get detailed information of my contributions <a href="https://rishikeshraj/#/opensource">here</a>.</li>
+    <li>You can get detailed information of my contributions <a href="https://rishikeshraj.com/#/opensource">here</a>.</li>
     <li>You can also scroll down and get the information on my <a href="https://github.com/rishikeshrajrxl">github profile</a>.</li>
   </ul>
 </details>
