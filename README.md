@@ -10,14 +10,15 @@
 <a href="https://www.instagram.com/thisisrishikeshraj"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/instagram.png" width="20" /></a>
 
 ## ⚡ Language & Tools
-![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![C++](https://img.shields.io/badge/-++-00599C?style=flat-circle&logo=c)
+![C](https://img.shields.io/badge/--00599C?style=flat-circle&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=Python)
+![C++](https://img.shields.io/badge/-dart-00599C?style=flat-circle&logo=dart)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-circle&logo=mysql)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-circle&logo=java)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-circle&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
 
