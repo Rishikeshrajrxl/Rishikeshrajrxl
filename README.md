@@ -126,3 +126,4 @@
   <img align="left" alt="Kajol Kumari| Gmaiil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=rishikeshrajrxl&style=flat-square&color=green)
