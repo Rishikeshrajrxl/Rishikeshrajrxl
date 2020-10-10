@@ -19,7 +19,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-circle&logo=mysql)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-circle&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-circle&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
 
 <h3>What I do? 👨‍💻</h3>
