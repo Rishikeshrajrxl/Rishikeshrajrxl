@@ -22,7 +22,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat-circle&logo=flutter)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
-<img src="https://img.shields.io/badge/-Android-et118f?style=flat">
+<img src="https://img.shields.io/badge/-Android-et118f?style=flat"> <img src="https://img.shields.io/badge/-OS-blue?style=flat">
 
 <h3>What I do? 👨‍💻</h3>
 <details>
