@@ -80,7 +80,7 @@
   </ul>
 </details>
 <p><img src="hacktoberfest2020-badge_2.png" width="100"  height="100"/>
-<img src="Hc2020.png" width="100"  height="100"/></p>
+<img src="Hc.png" width="100"  height="100"/></p>
 
 
 <h3>The Questions You May Have 😕</h3>
