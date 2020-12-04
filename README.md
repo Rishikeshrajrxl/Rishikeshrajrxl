@@ -79,8 +79,8 @@
     <li>You can also scroll down and get the information on my <a href="https://github.com/rishikeshrajrxl">github profile</a>.</li>
   </ul>
 </details>
-<p><img src="hacktoberfest2020-badge_2.png" width="100"  height="100"/>
-<img src="Hc.png" width="100"  height="100"/></p>
+<p><img src="hacktoberfest2020-badge_2.png" width="70"  height="70"/>
+<img src="Hc.png" width="70"  height="70"/></p>
 
 
 <h3>The Questions You May Have 😕</h3>
