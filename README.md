@@ -13,8 +13,6 @@
 
 ## ⚡ Language & Tools
 
-<img src="hacktoberfest2020-badge_2.png" /><br>
-
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-circle&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-circle&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=Python)
@@ -81,6 +79,9 @@
     <li>You can also scroll down and get the information on my <a href="https://github.com/rishikeshrajrxl">github profile</a>.</li>
   </ul>
 </details>
+<img src="hacktoberfest2020-badge_2.png" width="100"  height="100"/><br>
+<img src="Hf2020.png" width="100"  height="100"/><br>
+
 
 <h3>The Questions You May Have 😕</h3>
 <details>
