@@ -12,6 +12,9 @@
 <a href="https://www.instagram.com/thisisrishikeshraj"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/instagram.png" width="20" /></a>
 
 ## ⚡ Language & Tools
+
+<img src="hacktoberfest2020-badge_2.png" /><br>
+
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-circle&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-circle&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=Python)
