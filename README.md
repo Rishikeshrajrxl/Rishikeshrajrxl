@@ -81,7 +81,7 @@
 </details>
 <p><img src="hacktoberfest2020-badge_2.png" width="70"  height="70"/>
 <img src="Hc.png" width="70"  height="70"/>
-<img src="foss.png" width="70"  height="70"/></p>
+<img src="openhack-banner.png" width="200"  height="70"/></p>
 
 
 <h3>The Questions You May Have 😕</h3>
