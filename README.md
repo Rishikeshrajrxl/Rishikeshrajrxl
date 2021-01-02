@@ -1,31 +1,34 @@
 
 <!--<img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/linkedin_banner.png" />-->
 
-<h3>Hi there, I am <a href="https://rishikeshraj.com/">Rishikesh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
-
-![](https://komarev.com/ghpvc/?username=rishikeshrajrxl&style=flat-square&color=green)
-
+<h2 align="center">Hi there, I am <a href="https://rishikeshraj.com/">Rishikesh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+ 
+ <p align="center">
+  
+![github](https://komarev.com/ghpvc/?username=rishikeshrajrxl&style=flat-square&color=green) 
 <a href="https://github.com/Rishikeshrajrxl"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="20" /></a>
 <a href="https://www.linkedin.com/in/rishikesh-raj-65065b180/"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/linkedin.png" width="20" /></a>
 <a href="https://www.facebook.com/rishikesh.raj.5095/"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/facebook.png" width="20" /></a>
 <a href="mailto:rishikeshrajrxl@gmail.com"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/google-plus.png" width="20" /></a>
 <a href="https://www.instagram.com/thisisrishikeshraj"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/instagram.png" width="20" /></a>
+</p>
 
 ## ⚡ Language & Tools
 
+<p align ="center">
+  
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-circle&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-circle&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=Python)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-circle&logo=mysql)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-circle&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-circle&logo=git)
-
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
 <img src="https://img.shields.io/badge/-OS-blue?style=flat">
+</p>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
