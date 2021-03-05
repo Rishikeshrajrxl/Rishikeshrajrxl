@@ -84,8 +84,7 @@
 </details>
 <p><img src="hacktoberfest2020-badge_2.png" width="70"  height="70"/>
 <img src="Hc.png" width="70"  height="70"/>
-<img src="openhack-banner.png" width="200"  height="70"/>
-  <img src="logo.png" width="70"  height="70"/><img src="nwoc-logo.png" width="150"  height="70"/><img src="gssoc.png" width="150"  height="70"/></p>
+<img src="logo.png" width="70"  height="70"/><img src="nwoc-logo.png" width="150"  height="70"/><img src="gssoc.png" width="200"  height="70"/></p>
 
 
 <h3>The Questions You May Have 😕</h3>
