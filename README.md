@@ -4,9 +4,9 @@
 <h2 align="center">Hi there, I am <a href="https://rishikeshraj.com/">Rishikesh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
  
  <p align="center">
-  
+ ![github](https://komarev.com/ghpvc/?username=rishikeshrajrxl&style=flat-square&color=green) 
 <img src="croppped.png" />
-![github](https://komarev.com/ghpvc/?username=rishikeshrajrxl&style=flat-square&color=green) 
+
 <a href="https://github.com/Rishikeshrajrxl"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="20" /></a>
 <a href="https://www.linkedin.com/in/rishikesh-raj-65065b180/"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/linkedin.png" width="20" /></a>
 <a href="https://www.facebook.com/rishikesh.raj.5095/"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/facebook.png" width="20" /></a>
