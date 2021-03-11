@@ -5,6 +5,7 @@
  
  <p align="center">
   
+<img src="croppped.png" />
 ![github](https://komarev.com/ghpvc/?username=rishikeshrajrxl&style=flat-square&color=green) 
 <a href="https://github.com/Rishikeshrajrxl"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="20" /></a>
 <a href="https://www.linkedin.com/in/rishikesh-raj-65065b180/"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/linkedin.png" width="20" /></a>
