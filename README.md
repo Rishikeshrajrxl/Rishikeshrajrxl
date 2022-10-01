@@ -150,7 +150,7 @@
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=amruta-07&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Rishikeshrajrxl&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
  
   Leave a ⭐ from [here](https://github.com/Rishikeshrajrxl/Rishikeshrajrxl) if you like 😁
 
@@ -164,11 +164,11 @@
 ### Contact
 
 <a href="https://www.linkedin.com/in/rishikesh-raj-65065b180/">
-  <img align="left" alt="Kajol Kuamri|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rishikesh Raj|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/8986253054">
-  <img align="left" alt="Kajol Kumari| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rishikesh Raj  Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:rishikeshrajrxl@gmail.com">
-  <img align="left" alt="Kajol Kumari| Gmaiil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Rishikesh Raj | Gmaiil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
