@@ -13,21 +13,24 @@
 <a href="https://www.instagram.com/thisisrishikeshraj"><img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/logos/instagram.png" width="20" /></a>
 </p>
 
-## ⚡ Language & Tools
-
-<p align ="center">
+ <h1  align="center">Technical Skills 🛠</h1>
+ 
+ <p align="center"> 
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/c-%2314354C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2314354C.svg?style=for-the-badge&logo=c++&logoColor=white" />
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%231572B6.svg?style=for-the-badge&logo=MySQL&logoColor=White" />
+   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+   <img alt="ProbelSolving" src="https://img.shields.io/badge/Problem%20Solving-%F05032.svg?style=for-the-badge&logo=Problem%20Solving&logoColor=Red" />
+ <img alt="Os" src="https://img.shields.io/badge/Os-%2314354C.svg?style=for-the-badge&logo=Os&logoColor=white" />
   
-![C++](https://img.shields.io/badge/-++-00599C?style=flat-circle&logo=c)
-![C](https://img.shields.io/badge/--00599C?style=flat-circle&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-circle&logo=mysql)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-circle&logo=java)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-circle&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
-<img src="https://img.shields.io/badge/-OS-blue?style=flat">
+ 
 </p>
 
 <h3>What I do? 👨‍💻</h3>
@@ -118,13 +121,46 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
+---
+   
+ |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20138561)](https://stackoverflow.com/users/20138561/rishikesh-raj) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Rishikeshrajrxl"/>|
+|---|---|
+ 
+ 
+ ---
+<div align="center">
+ 
 
-
-![Rishikesh's github stats](https://github-readme-stats.vercel.app/api?username=rishikeshrajrxl&show_icons=true&theme=radical)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikeshrajrxl&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![github](https://komarev.com/ghpvc/?username=rishikeshrajrxl&style=flat-square&color=green) 
+</br>
+   ![Rishikesh's github stats](https://github-readme-stats.vercel.app/api?username=rishikeshrajrxl&show_icons=true&theme=radical)
+</br>
+</div> 
+
+ <div align="center">
+     <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+
+ 
+ <div align="center">
+        <img src="https://img.shields.io/github/followers/rishikeshrajrxl.svg?style=social&label=Follow"></img>
+        <br/>
+        <img src="https://komarev.com/ghpvc/?username=rishikeshrajrxl&style=flat-square&color=red"></img>
+       
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=amruta-07&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+ 
+  Leave a ⭐ from [here](https://github.com/Rishikeshrajrxl/Rishikeshrajrxl) if you like 😁
+
+
+</div>
+
+
+
+
+
 ### Contact
 
 <a href="https://www.linkedin.com/in/rishikesh-raj-65065b180/">
