@@ -138,7 +138,7 @@
 </div> 
 
  <div align="center">
-     <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+     <img src="https://github.com/Rishikeshrajrxl/Rishikeshrajrxl/blob/master/github-user-contribution.svg"></img>
 </div>
 
  
